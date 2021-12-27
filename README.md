@@ -1,7 +1,7 @@
 # Site Responsivo - Projeto do módulo 1
 Projeto final do módulo 1 do curso de Web Full Stack da Let's Code para criação de um site responsivo utilizando apenas HTML e CSS.
 
-Link: https://antuneslv.github.io/site-responsivo-projeto-mod1/index.html#
+<a href="https://antuneslv.github.io/site-responsivo-projeto-mod1/index.html#" target="_blank">Site Responsivo - Projeto do módulo 1</a>
 
 
 ## Enunciado
