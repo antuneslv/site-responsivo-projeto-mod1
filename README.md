@@ -1,4 +1,4 @@
-# site-responsivo-projeto-mod1
+# Site Responsivo - Projeto do módulo 1
  <p>Projeto final do módulo 1 do curso de Web Full Stack da Let's Code para criação de um site responsivo utilizando apenas HTML e CSS.</p>
 
 
